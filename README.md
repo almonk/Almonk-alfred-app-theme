@@ -7,8 +7,9 @@ A simple, pro theme for Alfred app.
 
 ### To install:
 
-  git clone git@github.com:almonk/Almonk-alfred-app-theme.git
-  open Almonk-alfred-app-theme/Al.alfredtheme
+    git clone git@github.com:almonk/Almonk-alfred-app-theme.git
+
+    open Almonk-alfred-app-theme/Al.alfredtheme
 
 
 
