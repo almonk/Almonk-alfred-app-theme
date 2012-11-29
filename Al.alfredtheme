@@ -13,7 +13,7 @@
 	<key>resultShortcutColor</key>
 	<string>rgba(166,166,166,1.00)</string>
 	<key>resultSubtextColor</key>
-	<string>rgba(166,166,166,1.00)</string>
+	<string>rgba(166,166,166,0.41)</string>
 	<key>resultTextColor</key>
 	<string>rgba(166,166,166,1.00)</string>
 	<key>scrollbarColor</key>
@@ -23,7 +23,7 @@
 	<key>searchFieldTextColor</key>
 	<string>rgba(227,225,227,1.00)</string>
 	<key>selectedResultBackgroundColor</key>
-	<string>rgba(65,131,196,1.00)</string>
+	<string>rgba(79,131,196,1.00)</string>
 	<key>selectedResultForeground</key>
 	<string>rgba(255,255,248,1.00)</string>
 	<key>selectedResultShortcutColor</key>
